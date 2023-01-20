@@ -1,0 +1,24 @@
+  <preferences>
+
+      <FavoriteMovie>CastAway</FavoriteMovie>
+      
+      <FavoriteTVShow>
+         <TVShow>Friends</TVShow>
+         <TVShow>TheOffice</TVShow>
+      </FavoriteTVShow>
+
+      <FavoriteFood>
+         <Food>vegetables</Food>
+         <Food>crisps</Food>
+         <Food>chocolate</Food>
+      </FavoriteFood>
+
+      <FavoriteTimeOfYear>summer</FavoriteTimeOfYear>
+
+      <CountryIWantToVisit>
+         <Country>Georgia</Country>
+         <Country>Norway</Country>
+         <Country>Montenegro</Country>
+      </CountryIWantToVisit>
+
+  </preferences>
