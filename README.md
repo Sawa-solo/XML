@@ -1,6 +1,6 @@
 # XML
 
-# bug report
+# Bug report
 ```xml
 <bug_report>
   <application>Crypto Academy by Investmate</application>
