@@ -56,6 +56,39 @@
   </preferences>
 ```
 
+## My skills
+
+```xml
+ <skills>
+
+    <testing_theory>
+     <theme>verification</theme>
+     <theme>validation</theme>
+     <theme>types of testing</theme>
+     <theme>clientserver architecture</theme>
+    </testing_theory>
+
+    <test_documentation>
+     <document>application mindmap</document>
+     <document>application glossary</document>
+     <document>checklist</document>
+     <document>bug report</document>
+     <document>test case</document>
+    </test_documentation>	
+    
+    <programs>
+      <program>Charles</program>
+      <program>terminal</program>
+      <program>github</program>
+      <program>postman</program>
+      <program>visual studio code</program>
+    </programs>	
+
+    <programming_language>JavaScript</programming_language>
+
+  </skills>
+  ```
+  
 ## Bug report
 
 ```xml
