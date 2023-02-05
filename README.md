@@ -1,6 +1,7 @@
 # XML
 
 ## Information about me
+```xml
 <information>
  <person>
    <name>Aleksandra</name>
@@ -25,6 +26,7 @@
 
  <salary>3000</salary>
 </information>
+```
 
 # Bug report
 ```xml
