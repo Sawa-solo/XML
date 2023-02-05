@@ -1,6 +1,6 @@
 # XML
 
-## Information about me
+## About me
 ```xml
 <information>
  <person>
@@ -27,8 +27,37 @@
  <salary>3000</salary>
 </information>
 ```
+## My preferences
 
-# Bug report
+```xml
+  <preferences>
+
+      <FavoriteMovie>CastAway</FavoriteMovie>
+      
+      <FavoriteTVShow>
+         <TVShow>Friends</TVShow>
+         <TVShow>TheOffice</TVShow>
+      </FavoriteTVShow>
+
+      <FavoriteFood>
+         <Food>vegetables</Food>
+         <Food>crisps</Food>
+         <Food>chocolate</Food>
+      </FavoriteFood>
+
+      <FavoriteTimeOfYear>summer</FavoriteTimeOfYear>
+
+      <CountryIWantToVisit>
+         <Country>Georgia</Country>
+         <Country>Norway</Country>
+         <Country>Montenegro</Country>
+      </CountryIWantToVisit>
+
+  </preferences>
+```
+
+## Bug report
+
 ```xml
 <bug_report>
   <application>Crypto Academy by Investmate</application>
