@@ -1,5 +1,31 @@
 # XML
 
+## Information about me
+<information>
+ <person>
+   <name>Aleksandra</name>
+   <patronymic>Nikolaevna</patronymic>
+   <surname>Soloshchenko</surname>
+   <age>29</age>
+ </person>
+ <pets>
+   <pet>
+    <kind>cat</kind>
+    <name>Kusha</name>
+    <gender>female</gender>
+    <age>5</age>
+   </pet>
+   <pet>
+     <kind>cat</kind>
+     <name>Murka</name>
+     <gender>female</gender>
+     <age>10</age>
+   </pet>
+ </pets>
+
+ <salary>3000</salary>
+</information>
+
 # Bug report
 ```xml
 <bug_report>
