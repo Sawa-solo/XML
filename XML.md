@@ -22,7 +22,7 @@
    </pet>
  </pets>
 
- <salary>3000</salary>
+ <salary>1500</salary>
 </information>
 ```
 ## My preferences
@@ -79,10 +79,8 @@
       <program>terminal</program>
       <program>github</program>
       <program>postman</program>
-      <program>visual studio code</program>
+      <program>dbeaver</program>
     </programs>	
-
-    <programming_language>JavaScript</programming_language>
 
   </skills>
   ```
