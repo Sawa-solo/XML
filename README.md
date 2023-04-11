@@ -2,7 +2,7 @@
 
 ![](https://cdn.iconscout.com/icon/free/png-256/xml-file-2330558-1950399.png)
 
-В этом репозитории хранятся небольшие файлы XML формата, которые я создала во время изучения Terminal GitBush
+В этом репозитории хранятся файлы XML формата, которые я создала во время изучения Terminal GitBush
 
 ### Другие мои репозитории
 * [SQL](https://github.com/Sawa-solo/SQL.git)
